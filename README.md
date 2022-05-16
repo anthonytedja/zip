@@ -1,6 +1,6 @@
 # zip
 
-[![Demo Gif](files/huffman.png)](https://github.com/anthonytedja/zip)
+[![Demo Gif](files/zip.jpg)](https://github.com/anthonytedja/zip)
 
 > zip utilizes huffman binary trees for lossless file compression and decompression.
 
